@@ -1,0 +1,11 @@
+[package]
+name = "algebra"
+authors = ["Azalea Colburn elocolburn@comcast.net"]
+version = "0.1.0"
+description = "Silly representation of algebraic equations"
+edition = "2021"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
