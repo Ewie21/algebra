@@ -1,2 +1,2 @@
 # algebra
-Silly representations of algebraic equations 
+Silly representations of algebraic equations
